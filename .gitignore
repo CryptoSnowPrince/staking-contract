@@ -1,0 +1,10 @@
+artifacts/
+cache/
+node_modules/
+typechain/
+.env
+coverage/
+coverage.json
+old/
+leafs.json
+proof.json
